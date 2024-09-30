@@ -13,11 +13,11 @@ Welcome to the **Git Workshop Karaoke**! 🎤 This workshop will teach you the f
 
 - Clone your forked repository to your local machine:
 
-`git clone https://github.com/YOUR_USERNAME/git-workshop-karaoke-f24.git`
+`git clone git clone https://github.com/CSE-Club-ISU/git-workshop-karaoke-f24.git`
 
 ### 3. Add some files
 
-- Create or add files to the repository on your local machine. These are the files that will end up on our CSE repository.
+- Create or add files to the repository on your local machine. These are the files that will end up on our repository.
 
 ### 4. Stage your changes
 
